@@ -1,0 +1,44 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build / output
+dist/
+build/
+public/build/
+coverage/
+coverage-final.json
+
+# Docker
+docker-compose.override.yml
+*.env.docker
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Kubernetes / Terraform state
+*.tfstate
+*.tfstate.backup
+.kube/
+
+# Misc
+*.pem
+*.key
+*.crt
+*.sqlite

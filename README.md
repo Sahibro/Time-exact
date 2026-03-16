@@ -1,4 +1,4 @@
-# time-exact
+# INVOICE GENERATOR FULL CODE index.html main hai 
 
 **One-line:** Millisecond‑accurate global time API + embeddable widget.
 
